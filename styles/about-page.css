@@ -1,0 +1,10 @@
+/* Similar to home.css but you can adjust colors for the about page */
+header {
+    background-color: #3b5998;
+    color: white;
+}
+main {
+    text-align: left;
+    padding: 20px;
+    line-height: 1.6;
+}
