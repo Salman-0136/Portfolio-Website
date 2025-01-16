@@ -1,0 +1,9 @@
+header {
+    background-color: #f39c12;
+    color: white;
+}
+main ul {
+    list-style-type: square;
+    padding-left: 40px;
+    line-height: 1.8;
+}
